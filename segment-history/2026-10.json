@@ -1,0 +1,160 @@
+{
+  "month": "2026-10",
+  "snapshot_date": "2026-11-01",
+  "segments": [
+    {
+      "name": "comprador Mexico City mapped",
+      "members": 3,
+      "open_rate": 95.58,
+      "click_rate": 48.15,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "general_jul26 general 18ago-30ago todos",
+      "members": 76,
+      "open_rate": 57.03,
+      "click_rate": 31.05,
+      "unsubscribe_rate": 7.9
+    },
+    {
+      "name": "general_jul26 general 18-30ago",
+      "members": 46,
+      "open_rate": 57.85,
+      "click_rate": 28.14,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Insta organico",
+      "members": 1,
+      "open_rate": 0.0,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "fb organico",
+      "members": 15,
+      "open_rate": 50.0,
+      "click_rate": 27.12,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "web directo",
+      "members": 60,
+      "open_rate": 69.44,
+      "click_rate": 21.18,
+      "unsubscribe_rate": 8.3
+    },
+    {
+      "name": "Boost abril activos",
+      "members": 3,
+      "open_rate": 32.39,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Boost activos",
+      "members": 353,
+      "open_rate": 26.22,
+      "click_rate": 2.46,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "BLF activos",
+      "members": 10,
+      "open_rate": 62.86,
+      "click_rate": 31.82,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "general_jul26 general",
+      "members": 147,
+      "open_rate": 60.24,
+      "click_rate": 33.0,
+      "unsubscribe_rate": 6.1
+    },
+    {
+      "name": "sparkloop todos",
+      "members": 446,
+      "open_rate": 55.45,
+      "click_rate": 32.55,
+      "unsubscribe_rate": 43.5
+    },
+    {
+      "name": "sparkloop activos",
+      "members": 128,
+      "open_rate": 61.25,
+      "click_rate": 35.35,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Boost",
+      "members": 385,
+      "open_rate": 26.79,
+      "click_rate": 3.19,
+      "unsubscribe_rate": 6.5
+    },
+    {
+      "name": "general_jul26 activo",
+      "members": 71,
+      "open_rate": 56.15,
+      "click_rate": 21.9,
+      "unsubscribe_rate": 4.2
+    },
+    {
+      "name": "BLF",
+      "members": 21,
+      "open_rate": 62.9,
+      "click_rate": 38.46,
+      "unsubscribe_rate": 4.8
+    },
+    {
+      "name": "Pendientes",
+      "members": 95,
+      "open_rate": 38.95,
+      "click_rate": 5.41,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "india",
+      "members": 15,
+      "open_rate": 33.23,
+      "click_rate": 3.77,
+      "unsubscribe_rate": 6.7
+    },
+    {
+      "name": "posibles bots",
+      "members": 5,
+      "open_rate": 0.0,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Not opted in",
+      "members": 0,
+      "open_rate": 0.0,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Fans",
+      "members": 45,
+      "open_rate": 94.02,
+      "click_rate": 6.61,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Inactive \"Active\"",
+      "members": 79,
+      "open_rate": 0.0,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    },
+    {
+      "name": "Inactive Pending",
+      "members": 17,
+      "open_rate": 0.0,
+      "click_rate": 0.0,
+      "unsubscribe_rate": 0.0
+    }
+  ]
+}
